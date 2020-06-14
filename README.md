@@ -24,3 +24,12 @@ We were to find the Period of Revolution and mass of both the stars.
 
 # [Derivation](https://github.com/SimranJoharle/Binary-Star-System-Analysis/blob/master/Derivation.pdf)
 # [Code](https://github.com/SimranJoharle/Binary-Star-System-Analysis/blob/master/Analysis%20of%20a%20Binary%20System.ipynb)
+# Results
+1. Radial Component of Orbital Velocity vs Time Scatter Plot fitted with Sine Curve.
+![alt text](https://github.com/SimranJoharle/Binary-Star-System-Analysis/blob/master/Radial%20Component%20of%20Orbital%20Velocity%20Scatter%20Plot%20fitted%20with%20Sine%20Curve.png)
+
+2. Output of the Program:
+
+   Period of revolution is: 3.5021448509295716 years  
+   Mass of lighter star is: 1.0016629339323149 solar mass  
+   Mass of heavier star is: 1.303500893740367 solar mass  
