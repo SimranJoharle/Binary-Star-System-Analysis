@@ -22,4 +22,4 @@ We were to find the Period of Revolution and mass of both the stars.
 
 6. The peaks of these waves are the points where the orbital velocity vector is parallel to the line of sight and hence the amplitude will give us the orbital velocity. The time period is calculated from the curve and this information is then used to calculate mass.
 
-# Derivation
+# [Derivation](https://github.com/SimranJoharle/Binary-Star-System-Analysis/blob/master/Derivation.pdf)
